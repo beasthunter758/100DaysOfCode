@@ -23,7 +23,7 @@ Beside this, I will also do some side projects in the journey.
 ## Day 5
 - [ ] Basic math operations
 ## Day 6
-- [ ]
+- [ ] Euclid's GCD algorithm
 
 # Rules of the 100 Days Of Code Challenge
 
