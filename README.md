@@ -1,8 +1,11 @@
 # I've joined the #100DaysOfCode Challenge
 Mostly I will do Data structures and algorithms for competitive programming.
 Beside this, I will also do some side projects in the journey.
+
 ##Goal
+
 ###I will keep on updating as I progress.
+
 ##Day 1
 
 - [] Asymptotic analysis (Big-O notation)
@@ -21,6 +24,7 @@ Beside this, I will also do some side projects in the journey.
 - [] Basic math operations
 ##Day 6
 - []
+
 ##Day 7
 ##Day 8
 ##Day 9
