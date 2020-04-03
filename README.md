@@ -8,12 +8,12 @@ Beside this, I will also do some side projects in the journey.
 
 ## Day 1
 
-- [] Asymptotic analysis (Big-O notation)
-- [] N-queen problem
+- [ ] Asymptotic analysis (Big-O notation)
+- [ ] N-queen problem
 
 ## Day 2
-- [] Arrays
-- [] N-queen problem
+- [  ] Arrays
+- [  ] N-queen problem
 
 ## Day 3
 - [] N-queen problem
