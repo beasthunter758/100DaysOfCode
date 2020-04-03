@@ -37,6 +37,6 @@ July 13th, 2020
 
 ## Additional Rules
 1. I will push code to GitHub every day so that anyone can see my progress.
-2. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
+2. I will update the (Log)[log.md#log] with the day's progress and provide a link so that others can see my progress.
 
 
