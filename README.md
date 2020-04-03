@@ -12,18 +12,18 @@ Beside this, I will also do some side projects in the journey.
 - [ ] N-queen problem
 
 ## Day 2
-- [  ] Arrays
-- [  ] N-queen problem
+- [ ] Arrays
+- [ ] N-queen problem
 
 ## Day 3
-- [] N-queen problem
-- [] Strings
+- [ ] N-queen problem
+- [ ] Strings
 ## Day 4
-- [] Stack and Queue
+- [ ] Stack and Queue
 ## Day 5
-- [] Basic math operations
+- [ ] Basic math operations
 ## Day 6
-- []
+- [ ]
 
 # Rules of the 100 Days Of Code Challenge
 
