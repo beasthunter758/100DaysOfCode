@@ -13,8 +13,10 @@ Beside this, I will also do some side projects in the journey.
 - [ ] Codechef April Long Challenge
 
 ## Day 2
+- [ ] Asymptotic analysis (Big-O notation)
 - [ ] Arrays
 - [ ] N-queen problem
+- [ ] Codechef April Long Challenge
 
 ## Day 3
 - [ ] N-queen problem
