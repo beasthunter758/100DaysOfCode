@@ -7,7 +7,7 @@ Beside this, I will also do some side projects in the journey.
 ### I will keep on updating as I progress.
 
 ## Day 1
-- [ ] Google Code Jam Online Qualification Round
+- [x] Google Code Jam Online Qualification Round
 - [ ] Asymptotic analysis (Big-O notation)
 - [ ] N-queen problem
 - [ ] Codechef April Long Challenge
