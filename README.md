@@ -1,32 +1,28 @@
 # I've joined the #100DaysOfCode Challenge
+
+## UPDATED
+
+
 Mostly I will do Data structures and algorithms for competitive programming.
 Beside this, I will also do some side projects in the journey.
+I will also complete some online courses in this journey.
 
 ## Goal
 
 ### I will keep on updating as I progress.
 
-## Day 1
-- [x] Google Code Jam Online Qualification Round
-- [ ] Asymptotic analysis (Big-O notation)
-- [ ] N-queen problem
-- [ ] Codechef April Long Challenge
+## Things to be completed 
 
-## Day 2
-- [ ] Asymptotic analysis (Big-O notation)
-- [ ] Arrays
-- [ ] N-queen problem
-- [x] Codechef April Long Challenge
+- [ ] Number theory for competitive programming 
+- [ ] Solve at least 5 problems from [CF Ladders](http://cfladders.rf.gd/index.html) daily
+- [ ] Learn Data Structures and Algorithms 
+- [ ] Complete Full-Stack Developer Nanodegree Program before June 9.
+- [ ] Complete Deep Learning specialization
+- [ ] Version control with Git
 
-## Day 3
-- [ ] N-queen problem
-- [ ] Strings
-## Day 4
-- [ ] Stack and Queue
-## Day 5
-- [ ] Basic math operations
-## Day 6
-- [ ] Euclid's GCD algorithm
+
+
+
 
 # Rules of the 100 Days Of Code Challenge
 
@@ -36,10 +32,11 @@ Beside this, I will also do some side projects in the journey.
 #### Start Date
 April 4th, 2020
 #### End Date
-July 13th, 2020
+Aug 15th, 2020
 
 ## Additional Rules
 1. I will push code to GitHub every day so that anyone can see my progress.
 2. I will update the [Log](https://github.com/beasthunter758/100DaysOfCode/blob/master/log.md) with the day's progress and provide a link so that others can see my progress.
+
 
 
