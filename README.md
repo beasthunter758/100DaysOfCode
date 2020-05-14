@@ -14,7 +14,7 @@ I will also complete some online courses in this journey.
 ### I will keep on updating as I progress.
 
 ## Things to be completed 
-
+- [ ] Hackerrank CPP section
 - [ ] Number theory for competitive programming 
 - [ ] Solve at least 5 problems from [CF Ladders](http://cfladders.rf.gd/index.html) daily
 - [ ] Learn Data Structures and Algorithms 
