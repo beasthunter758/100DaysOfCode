@@ -2,6 +2,8 @@
 
 ## UPDATED
 
+## Due to my end semester examinations I delayed this by about one month
+
 
 Mostly I will do Data structures and algorithms for competitive programming.
 Beside this, I will also do some side projects in the journey.
