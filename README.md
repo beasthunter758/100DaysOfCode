@@ -21,8 +21,7 @@ I will also complete some online courses in this journey.
 - [ ] Complete Full-Stack Developer Nanodegree Program before June 9.
 - [ ] Complete Deep Learning specialization
 - [ ] Version control with Git
-
-
+- [ ] Introduction to flutter using Dart
 
 
 
